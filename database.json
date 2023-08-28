@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "name": "Kolbano Cafe & Eatery",
+        "src": "./src/assets/images/kolbano-coffee.jpg",
+        "address": "Bodeh, Ambarketawang, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Kolbano Cafe merupakan salah satu objek wisata kuliner di Jogja yang baru viral di berbagai media sosial. Cafe ini tergolong masih sangat baru. Hadirnya Kolbano Coffee & Eatery kini menambah spot nongkrong di Jogja yang wajib dikunjungi. Lokasinya berada di Kabupaten Sleman yang hadir menawarkan konsep unik dengan menyuguhkan pesona alam sekitar yang menawan."
+    },
+    {
+        "id": 2,
+        "name": "Selawase Resto & Wedangan",
+        "src": "./src/assets/images/selawase-cafe.jpg",
+        "address": "Jl. Kp. Sitisewu, RT.01/RW.01, Sosromenduran, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Resto yang bertempat di Jalan Sitisewu, Kota Yogyakarta ini sangat mudah untuk dijangkau. Selain itu, tempatnya yang nyaman tentu akan sangat cocok untuk keluarga. Tempatnya pun sangat bersih, sehingga memang selalu menjadi resto incaran. Untuk menunya sendiri tersedia banyak sekali macamnya. Berbagai menu ini tentu akan sangat memanjakan lidah Anda. Wedang kacang ini merupakan salah satu minuman dengan bahan utama kacang yang telah direbus. Minuman ini memakai pemanis berupa gula Jawa dan gula pasir sesuai permintaan pengunjung. Sedangkan kacangnya sudah melalui perebusan yang lama, sehingga ketika digigit akan empuk. Wedang kacang ini mempunyai rasa yang manis dan gurih. Hanya dengan menghabiskan satu porsi saja, cukup membuat kenyang perut. Wedang kacang yang biasa dihidangkan dengan ketan ini cocok untuk dinikmati saat pagi maupun malam hari."
+    },
+    {
+        "id": 3,
+        "name": "Peacock Coffee",
+        "src": "./src/assets/images/peacock-coffee.jpg",
+        "address": "Jl. Palagan Tentara Pelajar No.61C, Panggung Sari, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Jika Anda mencari tempat kuliner asyik dan nyaman untuk dijadikan tempat nongkrong, mungkin Peacock Coffee rekomendasi paling tepat. Di jaman sekarang ini, kopi kerap kali diolah sedemikian rupa sehingga menciptakan rasa yang jauh lebih beragam. Banyak barista melakukan eksperimen, dengan mencampurkan kopi dengan bahan-bahan lainnya yang pastinya cocok dan aman. Bahkan kini banyak sekali kedai atau tempat ngopi yang modern dan tempat yang nyaman untuk melakukan berbagai kegiatan. Misalnya saja di Peacock Coffee yang kerap kali dijadikan tempat untuk melakukan berbagai aktivitas."
+    },
+    {
+        "id": 4,
+        "name": "Tempo Gelato",
+        "src": "./src/assets/images/tempo-gelato.jpg",
+        "address": "Jl. Tamansiswa No.54, Wirogunan,. Mergangsan, Yogyakarta",
+        "description": "Tempo Gelato, merupakan outlet gelato yang berdiri di tiga tempat di Kota Jogja. Berawal dari sebuah outlet kecil Tempo Gelato Prawirotaman pada tahun 2015 dengan nuansa Industrial eropa dan sentuhan khas rural (pedesaan) Indonesia. Yang menjadikan Outlet pertama ini sebagai salah satu icon-nya Kota Jogja. Pertengahan 2019, dengan persiapan yang matang, outlet Tempo Gelato Prawirotaman akhirnya direlokasi menjadi sebuah outlet yang lebih besar dengan daya tampung yang lebih banyak. Dan tetap menjadi salah satu kebanggaan Kota Jogja."
+    },
+    {
+        "id": 5,
+        "name": "Kopi Lumbung Mataram",
+        "src": "./src/assets/images/kopi-lumbung-mataram.jpg",
+        "address": "Purbayan, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Kopi Lumbung Mataram menjadi tempat yang menarik untuk banyak orang yang ingin menikmati waktu sore dan juga menyesap kopi ketika pagi hari. Ada berbagai macam cara mudah untuk menikmati hari dengan memanfaatkan makanan atau minuman yang sesuai. Anda dapat menikmati kuliner dengan suasana yang nyaman juga. Walaupun berbeda dengan cafe dan lain sebagainya, tempat ini mempunyai perbedaan sendiri. Anda dapat mengecek kuliner di Kotagede karena tempat menarik juga."
+    },
+    {
+        "id": 6,
+        "name": "The Original Gelato",
+        "src": "./src/assets/images/tempo-gelato.jpg",
+        "address": "Jl. Sagan No.24, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Tempat ini berada di Komplek Candi Prambanan, Jl. Raya Yogyakarta – Solo, Kranggan, Bokoharjo, Kec Prambanan, Kab Sleman, Daerah Istimewa Yogyakarta. Merupakan salah satu dari outlet The Original Gelato yang mampu menghidangkan suasaana tenang dan damai sehingga cocok bagi Anda yang suka es krim.\nTempat ini memang tidak terlalu mewah. Tetapi yang bikin menarik ketika berkunjung ke The Original Gelato Prambanan adalah susana sekitar yang biasanya sering dijadikan objek wisata. Hal ini memang tidak dapat dipungkiri karena kawasannya yang berada di sekitar Candi Prambanan atau samping museum Candi Prambanan."
+    },
+    {
+        "id": 7,
+        "name": "Sugara Milk",
+        "src": "./src/assets/images/sugara-milk.jpeg",
+        "address": "Jl. Lowanu, Sorosutan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Jika Anda sedang melintas di sekitar Umbulharjo Jogjakarta, ada baiknya Anda singgah di Sugara Milk yang menawarkan berbagai keunggulan. Salah satu keunggulan yang dimiliki adalah variasi menu yang ditawarkan kepada pembelinya yang berkunjung. Mari kita bedah lebih dalam apa saja menu kreatif yang ditawarkan café khas nan unik ini.\nDari minuman, varian susu ditawarkan kepada pembeli dalam dua mode yakni panas dan dingin dengan kombinasi beragam. Ada juga teh tarik, teh sereh, dan orange squash yang menjadi menu minuman spesial dari outlet ini. Milkshake juga ada di sini dengan tiga varian rasa yakni strawberry, vanila, dan coklat yang penuh gizi dan juga enak.\nSebagaimana namanya, Sugara Milk memiliki menu andalan aneka kombinasi susu yang membuat rasa susu tidak monoton. Dengan begitu orang akan suka menikmati susu dengan rasa yang tidak membuat enek dan mual penikmatnya. Outlet yang buka jam 10 pagi kecuali Hari Jumat ini juga memiliki varian menu unik lain seperti ketan atau chicken katsu misalnya.\nSelain varian di atas, ada pula kombinasi variasi lain seperti aneka nasi, olahan pisang, roti, bahkan aneka snack tersedia di sini. Banyaknya pilihan menu membuat café ini banyak diburu selain juga karena pelayanan yang prima dan tempatnya yang luas. Sangat menyenangkan bersantai di café ini sambil menikmati hidangan andalan yang akan meningkatkan gairah makan Anda."
+    },
+    {
+        "id": 8,
+        "name": "Kopi Kayu Lawas",
+        "src": "./src/assets/images/kopi-kayu-lawas.jpg",
+        "address": "Jl. Kasongan No.88, Tirto, Bangunjiwo, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
+        "description": "Kota Yogyakarta menjadi salah satu destinasi wisata yang banyak dikunjungi wisatawan. Baik dalam negeri maupun luar negeri. Salah satu yang bisa anda kunjungi adalah Kopi Kayu Lawas.\nBerlokasi di Jl. Kasongan No. 88, Tirto, Bangunjiwo, Kapanewon Kasihan, Kabupaten Bantul, Yogyakarta. Anda bisa sekalian berwisata di Desa Wisata Gerabah Kasongan.\nKopi Kayu Lawas adalah restoran dengan tema tempo doeloe. Restoran ini dibangun di pedesaan yang sangat asri. Membuat suasana restoran nyaman dan tenang.\nBeberapa fasilitas di restoran ini adalah terdapat ruang VIP. Serta dilengkapi dengan mushalla dan juga terdapat kolam ikan. Anda juga bisa menikmati beraneka macam karya seni.\nAnda bisa menikmati hidangan di Kopi Kayu Lawas sambil menikmati indahnya karya – karya seni yang terpajang di restoran ini. Mulai dari gerabah, lukisan, bahkan lukisan 3D pun ada di sini."
+    },
+    {
+        "id": 9,
+        "name": "Amurwa Coffee",
+        "src": "./src/assets/images/amurwa-coffee.jpg",
+        "address": "Kledokan, Umbulmartani, Kec. Ngemplak, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Amurwa Coffee. Hadir dengan konsep tradisional dan dibubuhi nuansa klasik, tempat ini menjadi sangat populer khususnya kalangan anak-anak milenial.\nNama Amurwa sendiri diambil dari bahasa sansekerta yang artinya kekuatan. Dinamakan Amurwa, karena destinasi ini berdiri pada situasi yang sulit yaitu 25 Maret 2020. Tepatnya saat awal munculnya wabah COVID-19 di Indonesia.\nAmurwa yakin akan terus berdiri (karena kuat) pada situasi apapun, termasuk masa-masa sulit sekali pun. Terdapat spot indoor dan outdoor yang bisa dipilih pengunjung. Suasana di sekitarnya sangat sejuk karena dikelilingi oleh tumbuhan."
+    },
+    {
+        "id": 10,
+        "name": "NOX Coffee Boutique",
+        "src": "./src/assets/images/nox-coffee-boutique.jpg",
+        "address": "Natasha Skin Clinic Center, KM.5 No, Jl. Kaliurang KM.5 No.53, Manggung, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "NOX Boutique Coffee memiliki ragam menu kopi. Mulai dari espresso base hingga filter coffee. Selain itu tempatnya cozy dan menunya juga ramah dikantong."
+    },
+    {
+        "id": 11,
+        "name": "My Kopi-O",
+        "src": "./src/assets/images/my-kopi-o.jpg",
+        "address": "Jl. Candrakirana No.21, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Gerai ini adalah semacam warung kopi yang kemudian diadaptasi menjadi resto. Suasananya terasa begitu cozy. Dengan memadukan setting ala coffee shop dan resto, gerai ini mencoba menghadirkan berbagai tawaran suasana yang nyaman. Setelah duduk di bagian yang cenderung resto, kami pun mulai membuka menu dan memilihnya. Berbagai menu ditawarkan, mulai dari snack gurih, menu utama, dessert, kopi, hingga berbagai es semua ada disini."
+    },
+    {
+        "id": 12,
+        "name": "Kafe Kebon Ndalem",
+        "src": "./src/assets/images/kebon-ndalem.jpg",
+        "address": "Jl. Pangeran Diponegoro No.2, Gowongan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Kopi Ndalem ini terletak  di lokasi yang sangat strategis untuk menikmati keindahan malam di Yogyakarta sekaligus memadang ikon Yogyakarta yang mana terkenal dengan tempat wisatanya yaitu monumen Tugu Yogyakarta dari balkon-balkon di cafe ini.\nDari tempat ini kita dapat menikmati pemandangan Tugu Pal Putih dengan sangat jelas dan nyaman. Di area Tugu Yogyakarta ini juga sering digunakan untuk mengadakan event-event dan acara wisata yang tentunya menarik banyak wisatawan. Cafe yang terdiri dari 3 lantai ini mempunyai konsep yang indah dan modern. Lantai 1 dekorasi dibuat sangat elok dan instagramable, sedangkan lantai 2 dan 3 dibuat lebih nyaman untuk bersantai dan juga terdapat balkon bagi yang suka dengan suasana outdoor langsung menghadap ke arah monumen Tugu Yogyakarta.\nKonsep yang ditawarkan cafe ini juga sangat lengkap meliputi pemandangan yang ditawarkan sangat menarik, tempat yang nyaman untuk berkumpul dengan sahabat maupun keluarga, serta adanya tempat shopping yang berada di lantai 1 cafe ini untuk membeli souvenir khas Yogyakarta."
+    },
+    {
+        "id": 13,
+        "name": "Cafe Svarga",
+        "src": "./src/assets/images/cafe-svarga.jpg",
+        "address": "Jl. Garuda No.26, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Svarga Coffee merupakan sebuah obyek wisata terbaru berupa sajian kuliner dengan tempat nongkrong atau cafe baru yang mengusung konsep menikmati kopi di hutan Jogja. Cafe baru yang sedang hits ini ramai dikunjungi."
+    },
+    {
+        "id": 14,
+        "name": "Cafe Eskala",
+        "src": "./src/assets/images/cafe-eskala.jpg",
+        "address": "Jl. Palagan Tentara Pelajar, Tegal Rejo, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Salah satu kafe yang belum lama buka di Yogyakarta yaitu Eskala Eatery Bar & Coffee yang baru diresmikan sekitar bulan Agustus 2019. Kafe ini mempunyai design dan arsitektur bangunan yang sangat menarik untuk milenial. Konsep modern tanpa menghilangkan suasana tropis juga kalian temukan ditempat ini.\nSang pemilik sengaja tidak menebang pohon-pohon disekitar area ini karena ingin mempertahankan suasana yang masih tropis dan sejuk. Kafe ini di design dengan sedemikian rupa supaya lebih ramah lingkungan dan tidak banyak menggunakan pencahayaan di siang hari dan tidak membutuhkan banyak pendingin ruangan karena suasana yang sudah sejuk dengan adanya pepohonan disekitarnya.\nSelain konsep bangunan yang sangat menarik dan milenial, serta suasana outdoor yang sangat menarik, menu yang ditawarkan di kafe ini sangat beragam dengan banyak pilihan menu. Dari masakan Indonesia sampai dengan masakan luar negeri akan kita temukan disini serta piihan minuman yang bervariasi pula. Kafe ini cocok untuk dijadikan tempat nongkrong atau bersantai bersama keluarga, kerabat, sahabat atau pun meeting bersama kolega. Ada juga dibagian tengah akan kita jumpai tempat yang cocok untuk berkumpul bersama keluarga dengan design yang modern dan kekinian."
+    },
+    {
+        "id": 15,
+        "name": "Loko Cafe",
+        "src": "./src/assets/images/loko-cafe.jpg",
+        "address": "Komp. Ps. Kembang, Jl. Ps. Kembang, Sosromenduran, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Loko Coffee mengusung konsep perkeretaapian. Ornamen cafenya di desain seperti kondisi di dalam kereta api. Yang lebih menarik lagi adalah meja dan kursi di Loko Coffee terbuat dari kayu bekas bantalan rel kereta api. Bahkan rencananya Loko Coffee akan membuat replika lokomotif di area depan cafe.\nAnda bisa menjumpai Loko Coffee di jalan Malioboro, di sisi selatan rel kereta api. Loko Coffee juga bisa Anda jumpai di Stasiun Lempuyangan, Stasiun Gubeng, Stasiun Semarang dan Stasiun Kutoarjo. Anda juga bisa order menu Loko Coffee dari dalam kereta api.\nJika Anda ingin mengunjungi Loko Cafe, Anda bisa langsung menuju ke arah jalan Malioboro dan memarkir kendaraan di Abu Bakar Ali, lanjut dengan berjalan kaki sekitar 100 meter menuju cafe karena area parkir tidak disediakan di Loko Coffee. Tidak disediakannya parkiran khusus pengunjung cafe dikarenakan untuk tetap menjaga pemandangan di sekitar agar tetap terasa nyaman tanpa sesaknya kendaraan bermotor. Namun, khusus Anda yang berkunjung dengan bersepeda, Anda dapat memarkirkan sepeda Anda di area cafe."
+    },
+    {
+        "id": 16,
+        "name": "Turi-turi Coffee",
+        "src": "./src/assets/images/turi-coffee.jpg",
+        "address": "Turi, Donokerto, Kec. Turi, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Tak kalah dengan kafe-kafe di sekitar pusat kota Jogja, Turi-Turi Coffee memiliki daya tarik tersendiri. Bagaimana tidak, untuk bisa mencapai tempat ini Teman Traveler harus mengitari Embung Kaliaji yang cukup luas.\nBeralamat di Donokerto, Turi, Sleman, Jogja, kafe ini diberi nama sesuai kecamatan daerah sekitar. Jika Teman Traveler berangkat dari Tugu Jogja, arahkan kendaraan melewati Jalan Magelang menuju Jalan Turi hingga Jalan Pakem-Turi.\nLokasinya yang bagaikan menyatu dengan alam membuat kafe ini cocok untuk kabur sejenak dari panas serta padatnya Jogja. Sangat tepat untuk tempat nongkrong, apalagi sambil menyeruput kopi. Kalian juga bisa mengerjakan tugas sembari nikmati suasana tenang.\nKehadiran tanaman dan pepohonan hijau bakal langsung membuat pengunjung merasakan atmosfer sejuk sejak area depan. Di sini juga tampak tulisan ‘Turi-Turi Coffee’ berukuran besar, yang sekaligus menjadi icon. Tentunya belum lengkap datang jika tak berfoto di kafe ini.\nBangunan Turi-Turi Coffee didominasi kayu, memberikan kesan traditional-vintage. Sejumlah dekorasi dan properti di beberapa sudut juga menunjang nuansa tersebut."
+    },
+    {
+        "id": 17,
+        "name": "Loepa Kopi",
+        "src": "./src/assets/images/loepa-kopi.jpg",
+        "address": "Jl. Asem, Geneng, Panggungharjo, Kec. Sewon, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
+        "description": "Bagi para pecinta kopi, sepertinya wajib mencoba datang ke tempat ini. Tempat yang direkomendasikan untuk nongkrong dan menikmati secangkir kopi ini bernama Loepa Kopi.\nDi sini ditawarkan berbagai jenis minuman olahan kopi yang tergolong cukup lengkap.\nBagi yang tidak suka kopi terdapat juga milkshake dan es krim. Semua menu yang ada disajikan dengan kualitas dan rasa terbaik oleh para barista yang ramah. Harga menu di kedai kopi ini cukup ekonomis. Anda dapat mengunjungi kedai kopi ini mulai dari jam 4 sore hingga jam 12 malam.\nDan juga, disediakan berbagai macam buku bacaan untuk menemani pengunjung menikmati kopi. Yang menarik dari Loepa Kopi adalah karena berbeda dari tempat-tempat kopi yang lain, Loepa Kopi tidak menyediakan wifi, karena konsep tempat ini memang seperti itu yang mana akan membuat pengunjung dapat lebih banyak menghabiskan waktu untuk nongkrong, berkumpul, bersantai, berdiskusi dan mengobrol satu sama lain."
+    },
+    {
+        "id": 18,
+        "name": "Chingu Cafe",
+        "src": "./src/assets/images/chingu-cafe.jpg",
+        "address": "Jl. Pandega Karya No. 18, Jl. Kaliurang No.KM 5, Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Chingu Cafe Jogja merupakan salah satu tempat makan masakan ala korea yang bisa kalian coba untuk kunjungi. Di tempat ini disediakan berbagai macam menu makanan korea yang istimewa.\nDaya tarik utama dari restoran korea ini tentunya adalah menu makanan dan minuman ala korea yang disediakan. Menu-menu masakan tersebut dapat Anda nikmati tentunya dengan rasa yang istimewa. Menikmati makanan korea di tempat ini tentunya akan sangat enak karena terdapat banyak sekali menu masakan dan minuman korea yang dapat dipilih.\nBangunan restoran korea yang satu ini juga ditata sangat menarik dengan menempatkan banyak sekali spot-spot foto menarik yang dapat Anda jadikan tempat untuk berfoto."
+    },
+    {
+        "id": 19,
+        "name": "Marisini Coffee",
+        "src": "./src/assets/images/marisini-coffee.jpg",
+        "address": "Jl. Sidomukti, Tiyosan, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Yang menjadikan Marisini Coffee menjadi begitu terkenal padahal tergolong cafe baru adalah lokasi cafe yang sangat nyaman dengan pandangan panorama gunung merapi yang terlihat sangat jelas. Cafe ini berada di tengah sebuah lahan hijau sehingga ketika Anda berada di dalam cafe ini, Anda akan merasakan nikmatnya nongkrong sambil menikmati pemandangan hijau nan indah itu.\nSelain itu di cafe ini mengusung konsep yang sangat cantik mulai dari segi bangunan bagian luar hingga penataan di bagian dalam cafe juga terlihat sangat indah sehingga Anda dapat mengabadikan beberapa momen karena tempatnya yang sangat instagramable. Di sudut mana pun Anda mengambil gambar maka akan tetap terlihat sangat keren dan begitu memukau pastinya.\nMungkin Anda berpikir bahwa di Cafe Marisini hanya menyediakan berbagai minuman seperti kopi dan aneka minuman non-kafein. Namun ternyata di tempat ini juga menyediakan berbagai menu makanan yang sangat nikmat dan begitu lezat. Mulai dari makanan ringan hingga makan berat seperti nasi goreng juga dapat Anda nikmati di cafe ini, untuk harganya sendiri juga sangatlah terjangkau."
+    },
+    {
+        "id": 20,
+        "name": "Legend Coffee 247 Games Cafe",
+        "src": "./src/assets/images/legend-coffee-247.jpg",
+        "address": "Jl. Abu Bakar Ali No.24-26, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Ada banyak hal unik yang dapat Anda temukan di kafe ini. Tempat nongkrong yang sangat cocok buat Anda para gamers. Di sini menyediakan setidaknya terdapat 15 jenis kopi khas di café legend ini dengan 100 jenis varian menu lainnya.\nLegend Coffe ini membuat kafenya memiliki desain semenarik mungkin untuk dapat menarik minat para pembeli. Tidak dapat dipungkiri adanya kebebasan bermain dalam kafe ini membuatnya semakin ramai pengunjung hingga membuka cabang di beberapa daerah. Tempat ini pun juga memiliki ruangan untuk digunakan bagi orang-orang yang akan mengadakan pertemuan besar seperti rapat, dengan menyediakan kelengkapan alat-alat presentasi.\nApa pun yang dibutuhkan, telah tersedia dengan rapi di Legend Coffe 247 Games Cafe. Tempat ini sangat cocok sekali untuk pertemuan komunitas, pertemuan untuk melakukan pertandingan games, untuk seru-seruan, layanan yang diberikan pun sangatlah memuaskan. Memang pada awalnya sasaran tempat ini adalah para pelajar mau pun mahasiswa."
+    },
+    {
+        "id": 21,
+        "name": "Kopi Ampirono",
+        "src": "./src/assets/images/kopi-ampirono.jpg",
+        "address": "Jl. Raya Kaligesing, Tileng, Pendoworejo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
+        "description": "Kopi Ampirono adalah sebuah tempat ngopi di Kulon Progo, Yogyakarta yang menawarkan sensasi ngopi sambil menikmati pemandangan alam pedesaan. Di sekitar kedai kopi tersebut, terbentang hamparan sawah yang luas.\nLokasinya yang berada di pinggir sawah, membuat Anda akan betah ngopi di sini. Cocok jadi tempat mencari ketenangan bersama keluarga mau pun teman. Cita rasa hidangan ala pedesaan, membuat suasana berkumpul semakin istimewa.\nSalah satu keistimewaan Kopi Ampirono adalah suasana dan pemandangan yang disuguhkan di tempat ini. Berlokasi di pinggir persawahan dengan hamparan padi membentang sejauh mata memandang. Pemandangan yang sangat istimewa. Tidak banyak tempat ngopi dan nongkrong yang menyajikan suasana indah seperti di Kopi Ampirono.\nKelebihan lain dari Kopi Ampirono adalah banyak spot pilihan untuk ngopi. Ada beberapa spot yang bisa dipilih mulai dari di dalam joglo, di dalam bangunan ala kedai, dan juga bisa juga di luar ruang. Anda dapat memilih yang sesuai dengan selara Anda."
+    },
+    {
+        "id": 22,
+        "name": "Filosofi Kopi",
+        "src": "./src/assets/images/filosofi-kopi.jpg",
+        "address": "Jl. Pandhawa No.001/17, Tegal Rejo, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Untuk masyarakat Jogja dan dekat dapat berupaya berkunjung di wisata kuliner filosofi kopi Jogja, merasakan sensasi minum hot drink ini disajikan berbeda di tempat – tempat yang lain, artinya kedai kopi terletak di zona pedesaan dan jauh dari hiruk-pikuk kota.\n        Pertama kali Anda merambah posisi wisata, bakal langsung memandang deretan rumah joglo klasik autentik, di mana dinding–dinding rumah berbahan kayu jati asli.\nWisatawan dibebaskan memilih tempat duduk, indoor atau pun outdoor, ada pula tempat duduk lesehan. Meski bangunan terasa klasik, tetapi juga dapat digunakan tempat berswafoto.\nSajian menu kopi dan cemilan buat hanya menemani kenikmatan kopi, terbilang terbatas di Filosofi Kopi Jogja, artinya cuma sediakan sebagian tipe saja. Misalnya menu kopi hitam hanya ada long black dan espresso. Menu white coffee lumayan bermacam–macam semacam macchiato, cappuccino, piccolo dan caffe latte. Menu brew ada sebagian metode penyeduhan semacam vietnam drip, Indonesia tubruk, aeropress dan v60.\nAda pun menu es kopi manual brew di filosofi kopi yg ada di Jogja memakai metode v60. Kopi dingin tersebut disajikan memakai botol yang menarik di foto.\nTidak hanya kopi, ada pula menu teh untuk wisatawan. Cemilan pasangan bisa jadi dapat dikatakan biasa–biasa saja seperti kentang goreng, berbagai macam kue, risoles, lumpia dan masih banyak lagi."
+    },
+    {
+        "id": 23,
+        "name": "Warung Es Buah PK",
+        "src": "./src/assets/images/es-buah-pk.jpg",
+        "address": "Jl. Pakuningratan, Jetis, Yogyakarta\nJl. Kyai Mojo, Tegalrejo, Yogyakarta\nKlajuran, Godean, Sleman",
+        "description": "Nama Warung Es Buah PK telah menjadi salah satu legenda kedai es di Yogyakarta. Kedai yang telah terdapat semenjak tahun 1973 dan terletak di trotoar Jalan Pakuningratan, Cokrodiningratan, Jetis, Jogja.\nJogja mempunyai banyak kedai es. Terdapat Rujak Es Krim Pak Nardi sampai Es Campur Pak Lanti yang fenomenal. Satu lagi yang tidak boleh ketinggalan. Namanya Es Buah PK yang adalah kuliner istimewa dan menyegarkan di Kota Gudeg. Kemudian seperti apa rasa dari jajanan istimewa ini? Ayo, intip sepenuhnya.\nTidak cuma tempat makan, kedai es di Jogja banyak yang legendaris. Tercantum pula Es Buah PK yang terletak di trotoar Jalan Pakuningratan, Cokrodiningratan, Jetis, Jogja. Nama PK sendiri bukan berasal dari penjualnya. Melainkan singkatan dari Pakuningratan. Konon, warung ini telah berjualan semenjak tahun 1973.\nTidak jauh beda dengan yang lain, Es Buah PK terdiri dari buah nangka, cincau gelap, sawo, kelapa muda, blewah, sawo, alpukat yang disajikan di atas mangkuk. Setelah itu, baru ditambahkan dengan serutan es dan susu coklat buat membuat rasanya manis. Tidak kurang bonus sirup yang nyatanya terbuat dengan formula sendiri. Nyatanya, sangat cocok buat lidah orang Indonesia. Terlebih dimakan di saat hawa tengah panas-panasnya.\nCita rasanya sangat khas Jawa, ataupun masih dapat dikatakan cocok buat lidah orang Indonesia. Es buah manis dengan sensasi dingin yang dimakan disaat hawa tengah panas- panasnya."
+    },
+    {
+        "id": 24,
+        "name": "Angkringan Lik Man",
+        "src": "./src/assets/images/angkringan-lik-man.jpg",
+        "address": "Ps. Kranggan, Jl. Poncowinatan No.7, Gowongan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Angkringan Lik Man merupakan angkringan legendaris, sebab pedagangnya adalah generasi awal pedagang angkringan di Yogyakarta yang umumnya berasal dari Klaten. Lik Man yang bernama asli Siswo Raharjo merupakan putra Mbah Pairo, pedagang angkringan pertama di Yogyakarta yang berjualan sejak tahun 1950-an. Warung berkonsep angkringan yang dulu disebut 'ting ting hik' diwariskan kepada Lik Man tahun 1969. Sejak itu, menjamurlah angkringan-angkringan lain.\nBegitu sampai di angkringan yang buka pukul 18.00 ini, anda bisa memesan bermacam minuman yang ditawarkan, panas maupun dingin. Pilihan minuman favorit adalah Kopi Joss, kopi yang disajikan panas dengan diberi arang. Kelebihan kopi itu adalah kadar kafeinnya yang rendah karena dinetralisir oleh arang. Tak usah khawatir itu hanya mitos, sebab Kopi Joss lahir dari penelitian mahasiwa Universitas Gadjah Mada yang kebetulan sering nongkrong di Angkringan Lik Man.\nAnda dapat memilih tempat duduk di dua tempat yang disediakan. Jika ingin berbincang dengan pedagang, Anda dapat duduk di dekat bakul atau anglo. Tetapi bila ingin lebih berakraban dengan teman, Anda dapat duduk di tikar yang digelar memanjang di trotoar seberang jalan. Tak perlu khawatir ruang yang tidak cukup sebab panjang trotoar yang digelari tikar hampir 100 meter.\nSambil duduk, Anda diberi kebebasan untuk berbicara apapun. Orang-orang yang sering datang ke angkringan ini membicarakan berbagai hal, mulai tema-tema serius seperti rencana demostrasi dan tema edisi di majalah mahasiswa hingga yang ringan seperti kemana hendak liburan atau sekedar tertawaan tak jelas yang sering disebut dengan gojeg kere. Tak ada larangan formal, tetapi yang jelas perlu menjaga budaya angkringan, yaitu tepo sliro (toleransi), kemauan untuk berbagi dan biso rumongso (menjaga perasaan orang lain). Bisa diartikan tak perlu berebut tempat dan menghargai orang lain yang duduk berdekatan."
+    },
+    {
+        "id": 25,
+        "name": "Kopi Klotok Pakem",
+        "src": "./src/assets/images/kopi-klotok-pakem.jpg",
+        "address": "Jalan Kaliurang No.KM.16, Area Sawah, Pakembinangun, Kec. Pakem, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Warung Kopi Klotok Jogja menjadi salah satu destinasi wisata kuliner yang ramai pengunjung. Tak jarang sobat harus rela antre jika datang di akhir pekan, karena warung sederhana yang berada di daerah Kaliurang ini digemari hampir tiap kalangan buat tempat nongkrong.\nSaat datang ke Warung Kopi Klotok, Anda akan langsung disambut dengan bangunan tradisional khas Jawa. Sesuai namanya, tempat makan ini mengusung konsep warung sederhana dengan bangunan joglo tradisional, lengkap dengan furnitur antik tertata di dalamnya.\nNamun, di balik bangunan tradisional tersebut, tersimpan aneka menu makanan dan minuman lezat yang bikin Anda ketagihan. Menyeruput kopi hangat sambil makan gorengan akan terasa lebih nikmat, karena didukung suasana asri dengan hamparan sawah di sekitar bangunan.\nInilah yang menjadi alasan mengapa Warung Kopi Klotok nyaris tidak pernah sepi pengunjung. Penantian Anda setelah antre panjang akan terbayarkan dengan lezatnya hidangan yang dipesan dan pemandangan alam yang sedap dipandang."
+    },
+    {
+        "id": 26,
+        "name": "Warung Kopi Merapi",
+        "src": "./src/assets/images/warkop-merapi.jpg",
+        "address": "Kepuharjo, Cangkringan, Petung, Kepuharjo, Kec. Cangkringan, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Bagi Anda pecinta kopi cobalah datang ke tempat ini. Namanya Warung Kopi Merapi. Letaknya di kaki gunung Merapi. Selain merasakan kenikmatan secangkir kopi jenis Robusta atau Arabika, Anda dapat menyaksikan “sisa-sisa” keganasan erupsi gunung api paling aktif di dunia tersebut.\nWarung ini terletak di antara beberapa batu sebesar lemari pakaian. Dari perempatan Jalan Kaliurang, Sleman, Yogyakarta, Anda membutuhkan waktu tempuh sekitar satu jam sampai ke sana menggunakan sepeda motor atau mobil.\nSebagai informasi, tempat ini berdekatan dengan tempat wisata yang relatif baru, yaitu The Lost World Castle, dan juga Stonehenge. Sekalian berwisata, bisa mampir ke sini. Warung kopi merapi terdapat di Dusun Petung, Kepuharjo, Cangkringan, Sleman. "
+    },
+    {
+        "id": 27,
+        "name": "Kedai Kopi Menoreh",
+        "src": "./src/assets/images/kedai-kopi-menoreh.jpg",
+        "address": "Madigondo, RT.26/RW.10, Madigondo, Sidoharjo, Kec. Samigaluh, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
+        "description": "Kedai kopi ini cukup tersembunyi dari riuhnya suasana Kota Jogja. Berlokasi di daerah Madigondo, Sidoharjo, Samigaluh, Kulon progo. Memang kalau pusat Kota Jogja kita harus menempuh waktu kurang lebih satu jam untuk mencapai kedai kopi yang sangat populer bagi warga Jogja khususnya Kulon Progo.\nNamun, dijamin Anda tidak akan menyesal justru akan ketagihan untuk nongkrong di sini.\nSuasana yang masih alami dan khas pedesaan tentu tidak akan dengan mudah Anda temui di tempat lain. Apalagi di kota-kota besar.\nSemua jenis kopi yang dijual di kedai ini dibuat sendiri oleh Pak Rohmat. Mulai dari panen, roasting, proses brew, sampai kopi siap dihidangkan, semua dilakukan secara tradisional. Terdapat berbagai macam kopi yang ditawarkan, namun yang menjadi unggulan adalah kopi lanang dan kopi luwak.\nAnda pasti telah mengetahui bahwa kopi luwak salah salah satu kopi termahal di dunia, tapi kalau kopi lanang mungkin masih cukup asing di telinga Anda. Kopi lanang adalah kopi yang bijinya berkeping satu. Perlu Anda ketahui bahwa biji kopi pada umumnya berkeping dua atau dikotil. Selain keping bijinya yang unik, dari segi cita rasa juga berbeda dari kopi biasa. Kopi lanang ini memiliki aroma yang lebih wangi dan komposisi rasa yang full."
+    },
+    {
+        "id": 28,
+        "name": "Bilik Kopi",
+        "src": "./src/assets/images/bilik-kopi.jpg",
+        "address": "Jl. Ipda Tut Harsono No.72, Muja Muju, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Tempat ngopi yang memadukan konsep vintage dan modern dalam satu tempat. Terletak di sebuah joglo kecil, namun area disekitar tempat ini didesain modern dan apik sehingga memberikan kenyamanan pada tamu yang datang ke tempat ini. Kita dapat temukan tempat ngopi ini di area Timoho Yogyakarta, tepatnya di Bilik Kopi Yogyakarta.\nSesuai dengan namanya, kita pasti tahu bahwa tempat ini mempunyai nuansa tradisional. Ada pun untuk makanan dan minuman yang disajikan di restoran ini bervariasi. Tempat ini juga menawarkan banyak macam kopi dari daerah-daerah di Indonesia.\nDibeberapa sudut tempat ini akan kita jumpai pula beberapa orang yang membawa laptop, karena selain menjadi tempat ngopi bersama teman atau keluarga. Tempat ini juga cocok digunkan untuk sekedar menyelesaikan urusan kuliah atau kerja, karena suasana yang mendukung serta terdapat beberapa colokan ditempat ini.\nPada malam hari suasana ditempat ini akan lebih indah dengan lampu-lampu yang menyala. Bilik Kopi Timoho ini berada di satu lokasi dengan Bilik Kayu Yogyakarta. Tempat ini juga biasa digunakan untuk menggelar acara ulang tahun atau pertemuan lainnya."
+    },
+    {
+        "id": 29,
+        "name": "Rujak Es Krim Pakualam",
+        "src": "./src/assets/images/rujak-es-krim.jpg",
+        "address": "Jl. Harjowinatan, RT.44/RW.10, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Terdapat beberapa penjual rujak es krim di Jogja, salah satunya yang terletak di sebelah barat tembok luar Pura Pakualaman dengan tenda biru yang diikat di sebuah batang pohon dekat gerobak rujak es krimnya. Hanya dengan harga di bawah sepuluh ribu rupiah, Anda sudah bisa menikmati satu porsi rujak es krim yang disajikan dalam mangkuk kecil, bila kurang pedas tinggal ditambahkan bumbu cabai pedas dalam wadah terpisah yang telah disediakan, Anda hanya perlu menambahkan sesuai selera Anda masing-masing. Es krim di sini teksturnya sangat lembut, manisnya pas, dan menyatu dengan bumbu serta serutan buah di rujaknya. Anda dapat berkunjung sejak pukul 09.00 WIB pagi hingga tutup. Sangat cocok bila dinikmati ketika siang hari atau saat udara kering dan panas."
+    },
+    {
+        "id": 30,
+        "name": "Ekologi Desk & Coffee",
+        "src": "./src/assets/images/ekologi-coffee.jpg",
+        "address": "Jalan Gambir 4, Karang Gayam CT VIII No.139, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Ekologi Caffee mengusung konsep eksterior dan interior yang rustic, dan mengedepankan view natural livin dan menyediakan aneka menu coffee dan western food.\nDi Ekologi Coffee terdapat 2 lantai di mana di lantai dua tersedia co-working space yang dapat memuat hingga 20 customers.\nSelain itu, tempat ini cocok untuk tempat ngopi yang asyik dan menjalani aktivitas perkuliahan dan pekerjaan.\nMenu unggulannya antara lain Coffee Iris Chocolate, Cappucino Caramel, Choco Hazelnut dan Pasta Anchovy Sauce."
+    },
+    {
+        "id": 31,
+        "name": "Blanco Coffee & Books",
+        "src": "./src/assets/images/blanco-coffee.jpg",
+        "address": "Jl. Kranggan No.30, Cokrodiningratan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta ",
+        "description": "Buka dari jam 08.00 hingga jam 22.00 WIB. Anda dapat ngopi seru bareng teman-teman Anda dengan nyaman, bahkan juga dapat sambil membaca buku.\nJajaran buku-buku yang ada di rak, semuanya dapat Anda baca sambil nongkrong. Suasana pagi hari di bagian dalam kafe sangat nyaman untuk bekerja/belajar. "
+    },
+    {
+        "id": 32,
+        "name": "The Bean Garden Coffee & Eatery Jogja",
+        "src": "./src/assets/images/bean-garden.jpg",
+        "address": "Jl. Ring Road Utara, Pugeran, Maguwoharjo, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Cafe and resto yang berdiri di atas lahan seluas kurang lebih 500 m² tersebut terbagi menjadi beberapa area, yaitu area lobby yang difungsikan sebagai coffee shop, area ground, mezzanine, serta area roof top. Lobby yang yang digunakan sebagai coffee shop sengaja dibuat tertutup. Hal tersebut dimaksudkan agar di area tersebut tidak terkontaminasi aroma-aroma dari resto, sehingga suasana layaknya sebuah coffee shop akan tetap terjaga. Dengan konsep industrial minimalis, nuansa cozy dan tenang di area coffee shop semakin menambah kenyamanan saat menikmati sajian kopi yang dihidangkan oleh barista-barista handal The Bean Garden. Pada sisi dindingnya lebih banyak mengaplikasikan kaca dengan steel frame yang semakin memperkuat konsep industrial yang diusung, sekaligus memaksimalkan pencahayaan alami pada saat siang hari. Pada sisi bar tempat para barista meracik kopi, unsur kayu nampak mendominasi pada material bar table serta dekorasi dinding sisi belakang bar."
+    },
+    {
+        "id": 33,
+        "name": "Secret Garden Coffee & Chocolate",
+        "src": "./src/assets/images/secret-garden.jpg",
+        "address": "Jl. Prof. DR. Ki Amri Yahya No.2, Pakuncen, Wirobrajan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Secret Garden Coffee And Chocolate dengan konsep seperti taman. Tempat ini memiliki ukuran seluas 200 meter dengan desain taman yang asri. Tanah tertutup dengan hamparan rerumputan hijau yang sangat menyejukkan pandangan.\nTempat ini sangat cocok digunakan untuk nongkrong santai dengan teman. Terutama pada malam hari, sangat menarik dengan gemerlap lampu kota malam."
+    },
+    {
+        "id": 34,
+        "name": "Silol Kopi",
+        "src": "./src/assets/images/silol-kopi.jpg",
+        "address": "Jl. Suroto, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Tempat ini merupakan salah satu tempat ngopi yang sangat populer karena buka selama 24 jam. Salah satu kelebihan yang dimiliki oleh Silol Kopi & Eatery adalah mengenai lokasinya. Lokasi dari Silol Kopi & Eatery ini cukup strategis dan mudah ditemukan. Hal ini disebabkan karena Silol Kopi & Eatery ini beralamat di Jalan Suroto, Kotabaru, Gondokusuman, Kota Yogyakarta. Lebih tepatnya, Silol Kopi & Eatery ini ada di bagian belakang Gramedia Sudirman dan juga ada di dekat Stasiun Kridosono. Karena lokasinya yang cukup strategis, menjadikan tempat ngopi di Jogja ini cukup populer selain karena jam operasional 24 jam yang dimilikinya.\nSilol Kopi & Eatery adalah sebuah tempat minum kopi dengan kemasan yang modern. Untuk jenis kopi yang disediakan ada sangat banyak jenisnya, akan tetapi untuk jenis makanannya biasanya jenis makanan western merupakan jenis makanan yang paling banyak ditemukan di Silol Kopi & Eatery ini.\nDi Silol Kopi & Eatery ini selain menikmati makanan dan minuman kopi yang menarik, Anda juga dapat mendapatkan hiburan berupa live music yang disediakan oleh Silol Kopi & Eatery di lantai satu. Total lantai bangunan dari Silol Kopi & Eatery ini sesungguhnya terdapat 3 lantai. Lantai pertama yang paling spesial adalah live music-nya. Untuk lantai 2, kelebihannya adalah adanya ruang terbuka yang bisa digunakan untuk bersantai. Sedangkan untuk lantai 3 yang paling menarik adalah karena berupa rooftop."
+    },
+    {
+        "id": 35,
+        "name": "Cafe Brick Jogja",
+        "src": "./src/assets/images/cafe-brick.jpg",
+        "address": "Jl. Damai No.8, Tambakan, Sinduharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Kafe ini merupakan bangunan tingkat dua pada lantai bawah terdiri dari tempat konsep ala Inggris dilengkapi dengan pendingin ruangan, sedangkan pada lantai ke dua memiliki area lebih luas dan terkesan terbuka. Belum lagi disana ada mobil Mercedes Benz klasik yang memang sengaja dipamerkan berada di area parkir kafe tersebut.\nKesan vintage ini lebih terasa lagi dengan menyediakan pula atribut-atribut seperti vespa dan mobil klasik di pinggir jalan. Tak hanya itu, masih dilengkapi pula dengan sejumlah kursi dan meja yang tersusun rapi membentuk booth-booth di bawah tenda payung bermotif garis hitam. Kesan London ini juga ditampilkan dari bilik sebuah kotak telepon berwarna merah.\nDi sekitarnya telah diletakkan kursi-kursi panjang dengan latar bingkai jendela berwarna putih dan dinding batu bata merah kafe di sebelah sisi timur. Tanaman-tanaman yang dibiarkan tumbuh di pinggir dinding kafe semakin menjadi nilai plus dan menambah manis tatanan eksterior.\nSerta pintu dan jendela yang dipasang berselang-seling di bangunan sebelah samping kiri Cafe Brick, diberi cat dengan warna-warna yang memang sengaja dibuat kontras dengan dindingnya. Jika anda berada di spot ini, akan anda dapati suasana lorong jalan di Inggris.\nPengunjung akan semakin dibuat nyaman dengan berbagai fasilitas kafe yang telah disediakan seperti tempat parkir luas-aman, wifi gratis, terdapat area smoking dan non-smoking, ruang rapat dan juga toilet.\nSelain dapat menikmati tempat yang nyaman dan berkarakteristik, pengunjung pastinya juga tidak ingin melewatkan menu-menu yang menjadi ciri khas dari Cafe Brick. Menu favorit di cafe ini ialah Cappucino in A Cone yang jarang ditemukan di kafe-kafe lain. Seperti namanya, menu yang satu ini memang menyajikan cappucino dalam contong waffle yang biasa digunakan untuk memakan es krim loh.\nUniknya, contong yang digunakan dalam menu favorit cafe brick yaitu Cappucino in A Cone sudah dilapisi cokelat di bagian dalamnya. Diperlukan cara khusus untuk mengolah berbagai jenis kakao yang digunakan untuk melapisi bagian dalam contong menu ini agar membuatnya tidak mudah meresap dan bocor. Saat menikmati menu ini, akan ada terasa sensasi gurih dari contong, pahit cokelat, serta pahit-manisnya cappucino yang melekat erat di setiap sudut contongnya. Bisa dibilang, inilah cara baru menikmati sebuah kopi ala Eropa."
+    },
+    {
+        "id": 36,
+        "name": "Epic Coffee & Epilog Furniture",
+        "src": "./src/assets/images/epic-coffee.jpg",
+        "address": "Jl. Palagan Tentara Pelajar No.29, Mudal, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Daya tarik Epic Coffee & Epilog Furniture Jogja Tentunya Epic Coffee Jogja disini sangat menyenangkan karena tempatnya didesain sangat cozy untuk para pengunjung dengan banyak menggunakan elemen kayu yang membuat suasana semakin menarik dan hangat. Epic Coffee Jogja mengusung taman terbuka yang membuat tempat ini sangat luas, tanaman hijau dan rerumputan serta pepohonan yang membuat suasana nyaman untuk menginap.\nKetika Anda memesan kopi di Epic Coffee Jogja Anda dapat memilih biji kopi sesuai dengan selera Anda, jika Anda penasaran dengan biji kopinya, di sini pelayan akan menjelaskannya kepada Anda sehingga anda bisa mendapatkan ilmunya juga. Bukan hanya tentang konsep desain yang nyaman dan rasa kopi yang nikmat, in Furnitur kopi dan epilog epik Di jogja pelayanannya juga sangat aktif.\nKafe ini juga dilengkapi dengan pager restoran nirkabel sehingga jika Anda ingin memesan sesuatu atau membutuhkan bantuan pelayan Anda hanya perlu menekan tombol di meja Anda."
+    },
+    {
+        "id": 37,
+        "name": "Taphouse Beer Garden",
+        "src": "./src/assets/images/taphouse.jpg",
+        "address": "Jl. Jlagran No.18, Pringgokusuman, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Dari luar tempat ini memang sedikit terlihat menyeramkan. Terkesan seperti angker dan tidak terawat. Namun saat masuk ke dalam, kesan tersebut seketika hilang dan berubah menjadi tempat yang menyenangkan. Untuk yang suka ngebir dan kebetulan sedang berada di Jogja. Tempat yang satu ini wajib untuk dikunjungi.\nTempat ini memang memanfaatkan sebuah rumah lawas kosong yang sudah lama tidak ditempati yang disulap menjadi sebuah tempat yang sangat Instagramable. Sebagian besar bangunan masih dipertahankan keasliannya seperti tembok-temboknya yang dibiarkan mengelupas sehingga batu batanya terlihat dengan jelas. Bagian tengah dengan atap yang terbuka membuat udaranya cukup segar.\nYang paling unik adalah kita masih bisa melihat bekas sumur lengkap dengan alat untuk menimba air. Beberapa tanaman rambat tampak mempercantik dindingnya. Ada juga 2 pohon yang tetap dibiarkan tumbuh dan membuat tempat ini semakin unik.\nTap House Beer Garden memiliki ruang yang cukup luas. Ada pilihan tempat indoor maupun outdoor dengan berbagai pilihan tempat duduk. Mulai dari bean bag yang ada di ruangan paling belakang, kursi-kursi kayu yang ada diruangan tengah dan outdoor, atau sofa-sofa yang berada di dekat sumur. Suasananya seperti sedang ngebir di rumah teman sendiri."
+    },
+    {
+        "id": 38,
+        "name": "Kafe 80's Bocor Alus",
+        "src": "./src/assets/images/kafe-80s.jpg",
+        "address": "Jalan Parangtritis 5.5, Kulon No.RT. 007, Tarudan, Bangunharjo, Kec. Sewon, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
+        "description": "Kafe 80's Bocor Alus, kafe ini akan membawa kalian menuju suasana pada tahun 80-an.\nMemasuki kafe, koleksi barang antik semakin beragam menghiasi dinding dan tiang. Beberapa di antaranya yakni teko, rantang, baskom, hingga radio. Koleksi barang jadul tersebut ternyata berasal dari koleksi pribadi dari pemilik kafe.\nBerawal dari hobi koleksi benda kuno, sang pemilik mendirikan kafe agar koleksinya tersebut juga dapat dinikmati khalayak ramai. Jika Anda tertarik dengan properti yang dipajang, Anda juga dapat membelinya.\nTidak hanya itu, Anda juga dapat membaca sejumlah tulisan nyentrik yang menghibur. Tempat dari Kafe 80's Bocor Alus yang unik dan menarik dapat menjadi favorit bagi siapa pun yang suka untuk berfoto. Anda akan mendapat banyak foto Instagramable di sini.\nRagam menu yang dihadirkan Kafe 80's Bocor Alus adalah kuliner ala rumahan."
+    },
+    {
+        "id": 39,
+        "name": "Mezzanine Eatery and Coffee",
+        "src": "./src/assets/images/mezzanine.jpg",
+        "address": "Jl. Palagan Tentara Pelajar Km 8 No.128, Mudal, Sariharjo, Ngaglik, Sleman",
+        "description": "Berbagai mural terlihat di sisi kanan dan kiri. Bangunan restoran terasa sejuk walaupun tidak menggunakan air conditioner. Bangunan yang terbuat dari kaca membuat kita merasa tidak berada di sebuah restoran tetapi seperti berada di taman yang penuh dengan tumbuh-tumbuhan. Seperti itulah perasaan ketika memasuki Mezzanine Eatery and Coffee."
+    },
+    {
+        "id": 40,
+        "name": "Roaster & Bear Cafe Jogja",
+        "src": "./src/assets/images/roaster-and-bear.jpg",
+        "address": "Jl. P. Mangkubumi No.52, Gowongan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta ",
+        "description": "Desain Roaster and Bear terasa begitu kita merambah ruangan. Jajaran aneka pastry–nya juga tersaji apik di atas rak. Tempat menawan berdesain unik ini memanglah tidak ubahnya suatu kafe yang dilengkapi bermacam opsi cake and bread.\nKesan elegan dan modern langsung tertangkap apabila kita memandang tempat ini dari sisi luar. Dan benar adanya, begitu terletak di dalam juga atmosfernya senantiasa sama. Sebagian tempat duduk dan meja beraksen kayu dengan bantalan biru empuk kemudian sebagian lagi berbentuk kursi panjang siap menyongsong wisatawan yang ingin bersantai di sana."
+    },
+    {
+        "id": 41,
+        "name": "Lawas 613 Cafe",
+        "src": "./src/assets/images/lawas-613.jpg",
+        "address": "Jl. Prawirotaman 2 No.613, Brontokusuman, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Lawas 613 cafe mempunyai tempat yang tidak begitu besar, cafe ini mempunya desain yang sangat modern di bagian depannya, namun setelah masuk anda akan dikejutkan dengan suasana vintage yang sangat berbeda.\nCafe ini selain cocok untuk nongkrong dan mengerjakan perkerjaan juga bisa anda gunakan sebagai tempat selfie, karena desain interior tempat ini sangat unik dengan suasana vintage dipadukan berbagai ornamen dan deretan sepeda ontel tua menambah kesan vintage tempat ini."
+    },
+    {
+        "id": 42,
+        "name": "Kala Jumpa",
+        "src": "./src/assets/images/kala-jumpa.jpg",
+        "address": "Jl. Malioboro No.42, Suryatmajan, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Restoran ini menjual berbagai macam jenis makanan/minuman seperti : Minuman, Fastfood, Coffee Shop dengan rasa yang sangat enak dan harga terjangkau yang dapat Anda nikmati bersama-sama dengan keluarga. Anda dapat mencoba semua menu yang disediakan dan siap memanjakan lidah Anda."
+    },
+    {
+        "id": 43,
+        "name": "Carney.Co",
+        "src": "./src/assets/images/carney-co.jpg",
+        "address": "Jl. Garuni II, Kledokan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Carney.Co atau Carney Cafe hadir untuk melengkapi kebutuhan wisata kuliner dan menambah list cafe kekinian di Jogja. Cafe masih sangat baru dan satu dari sekian banyak cafe di Jogja yang menawarkan keunikan dan kenyamanan bagi pelanggannya.\nTempat tersebut mengusung konsep kekinian yang sangat cocok untuk anak muda, sama seperti cafe Brick, Desa Albasta atau South Shore. Tempat nongkrong Jogja ini memiliki desain arsitektur keren dan elegan. Di sekitarnya terdapat pemandangan sawah hijau yang enak dipandang.\nCafe ini memiliki desain bangunan yang aesthetic, serta memiliki halaman yang cukup luas. Area indoor yang ditata sedemikian rupa hingga tampak keren dan elegan, serta terjaga kebersihannya. Selain itu, di area indoor juga dilengkapi dengan tempat duduk berupa sofa-sofa dan bean bag yang empuk. Terdapat juga fasilitas seperti WiFi gratis dan stop kontak listrik."
+    },
+    {
+        "id": 44,
+        "name": "Oppio Coffee Milk",
+        "src": "./src/assets/images/oppio.jpg",
+        "address": "Jl. Nglengkong Besi No.11, Area Sawah, Sukoharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Oppio Coffee Milk merupakan salah satu objek wisata kuliner baru di Kabupaten Sleman, Yogyakarta yang mulai ramai didatangi para pengunjung. Cafe baru di Sleman Jogja ini memang sangat cocok bagi kalian yang ingin nongkrong dan memburu spot instagramable. Di sana, Anda dapat menikmati aneka makanannya saja sembari merasakan hawa yang begitu menenangkan. Tak heran jika kedepannya Cafe Oppio Sleman akan menjadi tempat nongkrong favorit di Jogja.\nOppio Coffee Milk Jogja memiliki konsep cafe Outdoor dan Indoor serta menyuguhkan aneka menu makanan dan minuman dengan harga yang terjangkau. Desain tempatnya yang indah tentu akan memanjakan mata wisatawan, untuk ruangan indoornya memiliki desain interior yang cukup keren seperti kafe di Legian Bali.\nSementara untuk area outdoornya, Anda akan menempati area yang luas beralaskan rumput hijau lengkap dengan kursi kayunya. Ditambah dengan sentuhan Lampu-lampu dengan hiasan jerami yang terpasang membuat suasana nongkrong begitu romantis.\nCafe ala Pulau Dewata, Oppio Coffee and Milk ini juga menawarkan beragam menu makanan dan minuman yang menyegarkan. Sesuai dengan namanya, Menu di Oppio Coffee Milk ini didominasi menu kopi dan susu seperti Caramel Milk, Hazelnut hingga Avocado Coffee."
+    },
+    {
+        "id": 45,
+        "name": "De Celine",
+        "src": "./src/assets/images/de-celine.jpg",
+        "address": "Jl. Faridan Muridan Noto No.17, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "De Celine Jogja hadir menawarkan sebuah cafe berkonsep yang menarik dan tentunya dengan desain yang instagramable. Tempat nongkrong ini memiliki lahan yang cukup luas, nyaman dan sudah mempunyai fasilitas yang cukup memadai.\nDaya tarik utama dari ini yakni tempatnya yang menawarkan konsep unik yang membuat warga Yogyakarta penasaran. Tempat nongkrong ini mengusung konsep nuansa Paris yang sangat keren yang hadir pertama kali di kota Jogja."
+    },
+    {
+        "id": 46,
+        "name": "Sinergi",
+        "src": "./src/assets/images/sinergi.jpg",
+        "address": "Jl. Cenderawasih No.32 B, Demangan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Sinergi adalah suatu tempat ngopi dan nongkrong yang sangat digemari oleh kalangan muda-mudi. Banyak dari mereka yang menjadikan tempat ini sebagai ruang untuk mempertemukan ide-ide kreatif dan mengembangkannya, agar menjadi sesuatu hal yang berdampak kedepannya.\nMereka yang datang ke Sinergi Co-Working Space ini tidak hanya bersama-sama dengan kawan, sahabat, pasangan, maupun keluarga. Namun ada juga yang datang hanya seorang diri, biasanya untuk fokus mengerjakan tugas atau sekadar melamun saja. Mengistirahatkan sejenak pikiran dan perasaan dari berbagai macam tuntutan hidup, yang tidak berkesudahan.\nSinergi menyediakan ruangan sangat luas, yang mana akan membuat kalian leluasa untuk menjalani atau menutup hari di sini. Café Sinergi Co-Working Space Jogja ini mengedepankan kenyamanan dari pada para pengunjung yang datang. Tempat duduk dan meja turut di desain senyaman mungkin, dengan berbagai macam model yang ada. "
+    },
+    {
+        "id": 47,
+        "name": "Six Senses Kitchen",
+        "src": "./src/assets/images/six-senses.jpg",
+        "address": "Jl. DI Panjaitan No.39, Mantrijeron, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+        "description": "Dengan tagline yaitu Kitchen of the senses, Six Senses Kitchen Resto menghadirkan sebuah konsep berupa fine dining resto dengan konsep keterbukaan baik berupa konsep ruang mau pun dapur yang dapat dilihat oleh setiap pengunjung yang datang. Konsep mediterania dalam Six Senses diwujudkan ke dalam interior ruangan Six Senses Kitchen Resto. “Bangunan Six Senses Kitchen Resto merupakan sebuah bangunan lama berarsitektur Jawa.\nDari luar, bangunan Six Senses Kitchen Resto mirip sebuah rumah klasik Jawa. Jendela dan pintu besar dengan cat biru tua dan dinding berwarna krem siap menyambut setiap pengunjung yang datang. Begitu masuk ke dalam waiting room, pengunjung langsung dapat merasakan nuansa gaya mediterania. Dinding-dinding ruangan tebal khas mediterania yang berfungsi untuk melindungi panas di siang hari namun tetap hangat pada malam hari. Aksen mediterania dijumpai pada dinding dengan kombinasi warna biru laut, putih dan biru langit serta dengan adanya sebuah tempat perapian di dalam ruang tunggu. Selain itu juga terdapat sentuhan Baroque style berupa adanya pernak-pernik seperti kaca besar pada dinding-dinding ruangan. Baroque style sendiri merupakan sebuah aliran seni arsitektur pada abad ke-18 akhir sampai awal abad ke-19 setelah masa Rennaisance dan Victorian. "
+    },
+    {
+        "id": 48,
+        "name": "Journey Coffee & Records",
+        "src": "./src/assets/images/journey-coffee.jpg",
+        "address": "Jl. Komp. Colombo No.37, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "description": "Yang menarik dari Journey Coffee & Records (JRNY) adalah tentang konsep yang diusung karena menggabungkan antara tempat untuk ngopi dan juga musik.\nSelain menjadi tempat ngopi, JRNY rutin mengadakan gigs di setiap bulannya semenjak 2021. Agenda tersebut menampilkan band-band yang sebagian besar sudah memilki karya. Band-bandnya juga tidak hanya berasal dari Jogja saja."
+    }
+]
