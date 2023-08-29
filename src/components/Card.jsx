@@ -17,11 +17,11 @@ function Card() {
                             <img className="w-[2em] h-[2em] mx-auto" src="./src/assets/heart-icon.svg" alt="" />
                           </div>
                       </div>
-                      <h1 className='text-center text-lg font-medium xl:text-xl'>{data.name}</h1>
-                      <p className='text-left text-[8px] font-light text-slate-500 md:text-[10px]'>{data.address}</p>
-                      <p className='text-left text-[10px] font-light md:text-xs xl:text-sm'>{data.description}</p>
+                      <h1 className='mt-1 text-center text-lg font-medium xl:text-xl'>{data.name}</h1>
+                      <p className='mt-1 text-left text-[8px] font-light text-slate-500 md:text-[9px]'>{data.address}</p>
+                      <p className='mt-1 text-left text-[10px] font-light md:text-xs xl:text-xs'>{data.description}</p>
                     </a>
-                  </div>                    
+                  </div>                   
           )})
           }
     </div>
